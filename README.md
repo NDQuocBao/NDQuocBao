@@ -17,9 +17,8 @@ Sinh viên năm 2 ngành Công nghệ thông tin tại trường ĐH Mở TP.HCM
 
 **Trường Đại học Mở TP.HCM**  
 _Bachelor of formation Technology_  
-📅 2021 – nay  
-- GPA: 3.5 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
+📅 2023 – nay  
+- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Thiết kế Web, Lập trình hướng đối tượng, Cơ sở dữ liệu
 
 ---
 
@@ -29,14 +28,13 @@ _Bachelor of formation Technology_
 
 | Kỹ năng                  | Biểu tượng | Mức độ       |
 |--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐⭐☆        |
 | C++                      | 💻         | ⭐⭐⭐⭐☆        |
 | Java                     | ☕         | ⭐⭐⭐☆☆        |
 | HTML/CSS                 | 🌐         | ⭐⭐⭐⭐☆        |
 | JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
 | MySQL                    | 📊         | ⭐⭐⭐☆☆        |
 | Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
-| Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
+
 
 ### 🧪 Công cụ & Thư viện
 
