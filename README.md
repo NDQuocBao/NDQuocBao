@@ -1,15 +1,15 @@
-# 🧑‍💻 HỌ VÀ TÊN
+# 🧑‍💻 NGUYỄN DƯƠNG QUỐC BẢO
 
-- 📞 09xxxxxxxx  
-- 📧 yourname@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
-- 📍 Quận X, TP.HCM
+- 📞 0848482273  
+- 📧 ndqbao204@gmail.com  
+- 🌐 [GitHub](https://github.com/NDQuocBao)  
+- 📍 Nhà Bè, TP.HCM
 
 ---
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 2 ngành Công nghệ thông tin tại trường ĐH Mở TP.HCM. Mong muốn phát triển sự nghiệp trong lĩnh vực lập trình Front-end Developer, xây dựng giao diện web thân thiện, tối ưu trải nghiệm người dùng, đồng thời không ngừng học hỏi để trở thành một lập trình viên chuyên nghiệp.
 
 ---
 
