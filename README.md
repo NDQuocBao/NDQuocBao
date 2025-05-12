@@ -16,7 +16,7 @@ Sinh viên năm 2 ngành Công nghệ thông tin tại trường ĐH Mở TP.HCM
 ## 🎓 HỌC VẤN
 
 **Trường Đại học Mở TP.HCM**  
-_Bachelor of Science in Computer Science_  
+_Bachelor of formation Technology_  
 📅 2021 – nay  
 - GPA: 3.5 / 4.0  
 - Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
